@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: chocolate;
+    color: darkturquoise;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+img {
+    height: 600px;
+    width: 600px;
+    background-color: chocolate;
+}
+
+.nav navbar-nav {
+    position: absolute;
+    cursor: pointer;
+    display: flow-root;
+}
+
+.links {
+    text-decoration: none;
+    display: inline;
+    margin: 20px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+img {
+    height: 600px;
+    width: 600px;
+}
